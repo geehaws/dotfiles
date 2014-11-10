@@ -1,5 +1,7 @@
 # haws does dotfiles
 
+Thanks to [Zach Holman](https://github.com/holman/dotfiles).
+
 ## dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
