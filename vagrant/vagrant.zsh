@@ -1,0 +1,2 @@
+export ASSET_HOST="localhost:9000"
+export VAGRANT_DEFAULT_PROVIDER=vmware_fusion
