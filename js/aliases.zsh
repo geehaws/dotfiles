@@ -1,0 +1,1 @@
+alias gls='gulp server'
